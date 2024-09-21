@@ -10,7 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kausaraahmed&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## My Web Apps:
-<a href="https://schedulumos.onrender.com/" title="A app to simulate CPU scheduling algorithms">ScheduLumos</a>: A web app to compare performance of CPU scheduling algorithms.
+<a href="https://schedulumos.onrender.com/" title="A app to simulate CPU scheduling algorithms">ScheduLumos</a>: A web app to compare performance of CPU scheduling algorithms. </br>
+<a href="https://genroutine.onrender.com/" title="Routine generator">GenRoutine</a>: Routine Creating and visualizing tool.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
