@@ -19,8 +19,28 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kausaraahmed&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## My Web Apps:
-<a href="https://schedulumos.onrender.com/" title="A app to simulate CPU scheduling algorithms">ScheduLumos</a>: A web app to compare performance of CPU scheduling algorithms. </br>
-<a href="https://genroutine.onrender.com/" title="Routine generator">GenRoutine</a>: Routine Creating and visualizing tool.
+<table border="0">
+  <tr>
+    <td align="center" width=40%>
+    <img src="https://github.com/kausaraahmed/scheduLumos/blob/main/static/images/screenshot.png" width=100%> 
+    </td>
+    <td align="center">
+      <p><a href="https://schedulumos.onrender.com/" title="A app to simulate CPU scheduling algorithms"><strong>Schedulomus</strong></a>: A web app to compare performance of CPU scheduling algorithms</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width=40%>
+    <img src="https://github.com/kausaraahmed/genroutine/blob/no_py/static/ss.png" width=100%> 
+    </td>
+    <td align="center">
+      <p><a href="kausaraahmed.github.io/genroutine/" title="Routine generator">GenRoutine</a>: Routine Creating and visualizing tool</p>
+    </td>
+  </tr>
+</table>
+
+
+</br>    
+.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
