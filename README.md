@@ -25,7 +25,7 @@
     <img src="https://github.com/kausaraahmed/scheduLumos/blob/main/static/images/screenshot.png" width=100%> 
     </td>
     <td align="center">
-      <p><a href="https://schedulumos.onrender.com/" title="A app to simulate CPU scheduling algorithms"><strong>Schedulomus</strong></a>: A web app to compare performance of CPU scheduling algorithms</p>
+      <p><a href="https://cpuscheduler.vercel.app" title="A app to simulate CPU scheduling algorithms"><strong>Schedulomus</strong></a>: A web app to compare performance of CPU scheduling algorithms</p>
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
     <img src="https://github.com/kausaraahmed/genroutine/blob/no_py/static/ss.png" width=100%> 
     </td>
     <td align="center">
-      <p><a href="kausaraahmed.github.io/genroutine/" title="Routine generator">GenRoutine</a>: Routine Creating and visualizing tool</p>
+      <p><a href="https://genroutine.vercel.app" title="Routine generator">GenRoutine</a>: Routine Creating and visualizing tool</p>
     </td>
   </tr>
 </table>
